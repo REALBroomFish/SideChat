@@ -1,0 +1,28 @@
+{
+  "enabled": true,
+  "x": 20,
+  "y": 120,
+  "width": 380,
+  "gutter": 8,
+  "maxLines": 10,
+  "lineSpacing": 12,
+  "view": "all",
+  "hideMatched": false,
+  "locked": false,
+  "capture": {
+    "guild": true,
+    "party": true,
+    "dm": true
+  },
+  "show": [
+    "guild",
+    "party",
+    "dm"
+  ],
+  "filters": {
+    "guild": true,
+    "party": true,
+    "dm": true,
+    "officer": true
+  }
+}
